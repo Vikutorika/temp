@@ -1,0 +1,14 @@
+[MCDR] [2021-01-31 22:36:38] [MainThread/INFO]: Language has set to en_us
+[MCDR] [2021-01-31 22:36:38] [MainThread/INFO]: Encoding / Decoding method has set to utf-8 / cp936
+[MCDR] [2021-01-31 22:36:38] [MainThread/INFO]: Plugin directory list:
+[MCDR] [2021-01-31 22:36:38] [MainThread/INFO]: - plugins
+[MCDR] [2021-01-31 22:36:38] [MainThread/INFO]: Handler has set to vanilla_handler
+[MCDR] [2021-01-31 22:36:38] [TaskExecutor/INFO]: Refreshing all plugins
+[MCDR] [2021-01-31 22:36:38] [TaskExecutor/INFO]: No plugin has changed; Active plugin amount: §71§r
+[MCDR] [2021-01-31 22:36:38] [MainThread/INFO]: Starting the server with command "java -Xmx4G -jar fabric-server-launch.jar nogui"
+[MCDR] [2021-01-31 22:36:38] [MainThread/INFO]: Server is running at PID 19064
+[MCDR] [2021-01-31 22:36:43] [CheckUpdate/INFO]: Fail to detect latest version from Github: ReadTimeout(ReadTimeoutError("HTTPSConnectionPool(host='api.github.com', port=443): Read timed out. (read timeout=5)"))
+[MCDR] [2021-01-31 22:37:26] [MainThread/INFO]: Waiting for server process to stop
+[MCDR] [2021-01-31 22:37:26] [MainThread/INFO]: Server process stopped with code 0
+[MCDR] [2021-01-31 22:37:26] [MainThread/INFO]: Server stopped
+[MCDR] [2021-01-31 22:37:26] [MainThread/INFO]: bye
